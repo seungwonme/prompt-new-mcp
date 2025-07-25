@@ -1,10 +1,8 @@
 {
   "mcpServers": {
     "prompt-new-mcp": {
-      "command": "node",
-      "args": [
-        "/Users/seungwonan/Dev/1-project/demodev/prompt-new-mcp/build/index.js"
-      ]
+      "command": "npx",
+      "args": ["prompt-new-mcp"]
     }
   }
 }
