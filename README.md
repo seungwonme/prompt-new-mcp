@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for saving and managing prompts. This tool allows you to save prompts with timestamps and list previously saved prompts.
 
+<a href="https://glama.ai/mcp/servers/@seungwonme/prompt-new-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@seungwonme/prompt-new-mcp/badge" alt="prompt-new-mcp MCP server" />
+</a>
+
 ## Installation
 
 You can run this MCP server directly using npx without installation:
